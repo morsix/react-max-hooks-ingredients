@@ -1,2 +1,2 @@
 ## DEMO
-https://morsix.github.io/react-burger-builder
+https://morsix.github.io/react-max-hooks-ingredients
